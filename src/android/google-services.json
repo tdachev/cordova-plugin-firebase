@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "562799280540",
+    "firebase_url": "https://bitcaster-push-cordova.firebaseio.com",
+    "project_id": "bitcaster-push-cordova",
+    "storage_bucket": "bitcaster-push-cordova.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562799280540:android:bb8c595929f6cf9b",
+        "android_client_info": {
+          "package_name": "com.bitcaster.sktv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562799280540-s0gdci4l9gt9rcpraojcc5jo0b5mjdae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFvXE4_AfNBJiG1wihR8n0C1-25C8dTIQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
